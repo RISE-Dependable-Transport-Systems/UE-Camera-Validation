@@ -1,5 +1,7 @@
 # UE-Camera-Validation
 
+[![DOI](https://zenodo.org/badge/876382551.svg)](https://doi.org/10.5281/zenodo.15646537)
+
 This project is designed to facilitate camera validation within Unreal Engine environments. It provides a laboratory room asset that can assist in testing and calibrating camera setups for various applications. 
 
 ![sim_setup](https://github.com/user-attachments/assets/4e33cf47-65bb-40d8-be3d-785d6b596b11)
